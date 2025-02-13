@@ -1,6 +1,6 @@
-# RuoYi v3.8.9
+# Esport-Predirct-System
 
-## 基于SpringBoot+Vue3前后端分离的Java快速开发框架
+## <center>基于Springboot+Vue+决策树算法的电竞赛事预测系统<center>
 
 ![Stars](https://img.shields.io/github/stars/ruoyi/ruoyi-vue?style=social)
 ![Version](https://img.shields.io/badge/RuoYi-v3.8.9-blue)
